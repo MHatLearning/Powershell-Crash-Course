@@ -16,3 +16,4 @@ If you wish to submit an update/correction/contrabution, please follow the rules
 | 6 | Exceptions and error handeling | This section coverrs, how to respond to errors, and make choices about how powershell should behave | NA |
 | 7 | Hashmaps and Enums | This section covers storing data in hashmaps, amd the use of Enums to represent values | NA |
 | 8 | Scripts and Modules | What is a script, What is a module, What is an execution policy | NA |
+| 9 | Data structures and Algorithams | details on how .Net implments data scructures and on comon algorithms | NA |
