@@ -13,5 +13,6 @@ If you wish to submit an update/correction/contrabution, please follow the rules
 | 3 | Classes and Objects and Custom types | This section teches you how to make custom classes with methods and properties | NA |
 | 4 | Functions, Parameters, and commandlets (Cmdlets) | This section covers reusability of small units of code though functions | NA |
 | 5 | Control flow | This section coverrs, making decisions in code through if statements, switch statements and loops | NA |
-| 6 | Hashmaps and Enums | This section covers storing data in hashmaps, amd the use of Enums to represent values | NA |
-| 7 | Scripts and Modules | What is a script, What is a module, What is an execution policy | NA |
+| 6 | Exceptions and error handeling | This section coverrs, how to respond to errors, and make choices about how powershell should behave | NA |
+| 7 | Hashmaps and Enums | This section covers storing data in hashmaps, amd the use of Enums to represent values | NA |
+| 8 | Scripts and Modules | What is a script, What is a module, What is an execution policy | NA |
